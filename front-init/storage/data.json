@@ -1,1 +1,14 @@
-{}
+{
+  "2023-08-12 15:40:43.988640": {
+    "username": "Alex",
+    "message": "First note"
+  },
+  "2023-08-12 15:41:05.038526": {
+    "username": "Anna",
+    "message": "Hello world"
+  },
+  "2023-08-12 15:44:41.152547": {
+    "username": "One",
+    "message": "Two"
+  }
+}
